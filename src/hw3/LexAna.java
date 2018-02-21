@@ -39,6 +39,7 @@ public class LexAna {
 		}
 
 	}
+
 	/*
 	 * errno_t err; err = fopen_s(&in_fp, "C:/Users/puc/Desktop/front.in", "r"); if
 	 * (err != 0) printf("ERROR - cannot open front.in \n"); else { getChar(); do {
@@ -46,6 +47,7 @@ public class LexAna {
 	 * 
 	 * } }
 	 */
+
 	/* Function declarations */
 	/* addChar - a function to add nextChar to lexeme */
 	public static void addChar() {
